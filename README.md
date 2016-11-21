@@ -16,7 +16,7 @@
 <ol>
 	<li>GIT spurningar (2%)<br>
 	Spurningum er svarað í git_svor.txt samkvæmt leiðbeiningum</li>
-	<li>GIT útgáfustýring (6%) 
+	<li>GIT stýring (6%) 
 		<ul>
 			<li><b>3% Git_verkefni.</b> Vinnusvæði vaktað með Git útgáfustjórnun og verkefnið leyst samkvæmt verklýsingu.</li>
 			<li><b>3% Github_verkefni</b> afritað með goggunaraðferðinni „Fork Repository“ af https://github.com/VSH24/github_verkefni  á eigin GitHub reikning (GitHub Account) 
